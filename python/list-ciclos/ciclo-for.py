@@ -27,3 +27,8 @@ for letra in palabra:
  # Recorre los números del 0 al 4 (sin incluir el 5)
 for i in range(5):
  print(f"Iteración número: {i}")
+
+
+ mis_numeros = [10, 20, 30, 40, 50]
+ for numero in mis_numeros:
+     print(f"El número es: {numero}")
